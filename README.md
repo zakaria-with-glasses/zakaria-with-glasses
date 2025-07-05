@@ -1,15 +1,13 @@
-
 # 🎮 Harira ZAKARIA .
-**`An AI & Cybersecurity Engineering student from Morocco 🇲🇦`**<div style="
-  display: inline-block;
+**`An AI & Cybersecurity Engineering student from Morocco 🇲🇦`**
+<div style="display: inline-block;
   border: 1px solid #0A66C2;
   border-radius: 8px;
   padding: 4px 8px;
   margin: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   background-color: #ffffff;
-  vertical-align: middle;
-">
+  vertical-align: middle;">
   <a
     href="https://www.linkedin.com/in/zakaria-with-glasses"
     target="_blank"
@@ -21,8 +19,7 @@
       color: #0A66C2;
       font-weight: 500;
       font-size: 13px;
-    "
-  >
+    ">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="LinkedIn"
@@ -116,6 +113,6 @@ I’m a polyglot engineer who thrives at the intersection of cutting‑edge web 
 
 ### 📊 Stats
 
-![zakaria-with-glasses's Stats](https://github-readme-stats.vercel.app/api?username=zakaria-with-glasses&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![zakaria-with-glasses's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-with-glasses&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![zakaria-with-glasses's Stats](https://github-readme-stats.vercel.app/api?username=zakaria-with-glasses&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
+![zakaria-with-glasses's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-with-glasses&theme=gotham&show_icons=true&hide_border=false&layout=compact)
