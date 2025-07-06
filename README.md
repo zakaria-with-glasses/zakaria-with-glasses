@@ -113,6 +113,5 @@ I’m a polyglot engineer who thrives at the intersection of cutting‑edge web 
 
 ### 📊 Stats
 
-![zakaria-with-glasses's Stats](https://github-readme-stats.vercel.app/api?username=zakaria-with-glasses&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-
-![zakaria-with-glasses's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-with-glasses&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+![zakaria-with-glasses's Stats](https://github-readme-stats.vercel.app/api?username=zakaria-with-glasses&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![zakaria-with-glasses's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-with-glasses&theme=dark&show_icons=true&hide_border=false&layout=compact)
